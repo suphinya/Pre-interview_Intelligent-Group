@@ -1,1 +1,3 @@
-"# Pre-interview_Intelligent-Group" 
+# Pre-interview_Intelligent-Group
+
+* Question 1 : program.py
